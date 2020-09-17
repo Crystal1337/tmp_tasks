@@ -12,4 +12,4 @@ Jak skonfigurować projekt:
 
 Korzystanie z aplikacji:
 1. Jeśli wszystko zostało skonfigurowane poprawnie aplikacja jest dostępna w przeglądarce pod adresem "localhost/tmp_tasks-master" (localhost/nazwa_folderu_projektu jeśli była zmieniona),
-2. Wszystkie funkcjonalności działają bez ingerencji w bazę danych.
+2. Wszystkie funkcjonalności działają bez ingerencji w bazę danych z poziomu pliku index.php
